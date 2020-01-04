@@ -10,4 +10,6 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 
 The Train, Test and Prediction data is separated in each zip files. 
 There are around 14k images in Train, 3k in Test and 7k in Prediction.
+
+NOTE: x_test and x_train pickle files are too large over 100Mb so github is not allowing to upload them bt u can load pickle files and train model on it 
  
